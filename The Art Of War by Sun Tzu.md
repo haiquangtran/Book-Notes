@@ -15,3 +15,25 @@
    - The graduations of rank among officers
    - The maintenance of roads which supplies may reach the army.
    - Control of militiary expenditures
+
+## Attack by Stratagem
+- The best thing of all is to take the enemies country whole and intact, not shattered and destroyed
+- You don't want to fight and conquer all your battles, supreme excellence is breaking the enemies resistance without fighting
+	- Best thing is to Balk the enemy's plans (Best to worst in order)
+	- Next best is to prevent junction of the enemy's forces
+	- Attack enemy in the field
+	- Worst of all is to beseige walled cities
+		- Doing this takes long time (6 months) and usually 3 men die for every enemy killed while the city has still not been taken.
+- **Skillful leader**
+  - Subdues troops without fighting
+  - Captures cities without siege
+  - Overthrows kingdom without lengthy operations in the field
+  - Disputes the mastery of the Empire, and wihtout losing a man, his triumph will be complete
+  - This is the method of attacking by Stratagem.
+- **Five essentials for victory**
+  - He will win who knows when to fight and when not to fight
+  - He will win who knows how to handle superior and inferior forces
+  - He will win whose army is animated by the same spirit thoughout all its ranks
+  - He will win who, prepared himself, waits to take the enemy unprepared
+  - He will win who has military capacity and is not interfered with by the sovereign
+- **"If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not he enemy, for every victory gained you will also suffer a defeat, If you know neither the enemy nor yourself you will succumb in every battle."**
