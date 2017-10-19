@@ -36,4 +36,10 @@
   - He will win whose army is animated by the same spirit thoughout all its ranks
   - He will win who, prepared himself, waits to take the enemy unprepared
   - He will win who has military capacity and is not interfered with by the sovereign
-- **"If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not he enemy, for every victory gained you will also suffer a defeat, If you know neither the enemy nor yourself you will succumb in every battle."**
+- **"If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat, If you know neither the enemy nor yourself you will succumb in every battle."**
+
+## Tactic Dispositions
+- To secure ourselves against defeat lies in our own hands, but the opportunity to defeat the enemy lies in the enemy themselves.
+- A good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy
+- A clever fighter wins his battles by making no mistakes, making no mistakes establishes certainty conquering an enemy that has already been defeated
+- The Victorious strategist only seeks battle after the victory has been won, wherehas he who is destined to defeat first fights and afterwards looks for victory.
