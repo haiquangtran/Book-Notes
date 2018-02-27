@@ -43,3 +43,33 @@
 - A good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy
 - A clever fighter wins his battles by making no mistakes, making no mistakes establishes certainty conquering an enemy that has already been defeated
 - The Victorious strategist only seeks battle after the victory has been won, wherehas he who is destined to defeat first fights and afterwards looks for victory.
+
+## There are five dangerous faults which may affect a general:
+- (1) Recklessness, which leads to destruction;
+- (2) cowardice, which leads to capture;
+- (3) a hasty temper, which can be provoked by insults;
+- (4) a delicacy of honor which is sensitive to shame;
+- (5) over-solicitude for his men, which exposes him to worry and trouble. 
+
+## In your deliberations, when seeking to determine the military conditions, let them be made the basis of a comparison, in this way:
+- which of the two generals has the most ability?
+- on which side is Discipline most rigorously enforced?
+- which army is stronger?
+- on which side are the officers and men more highly trained?
+- in which army is there the greater constancy both in reward and punishment?
+
+## Quotes
+- "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win"
+- "Regard your soldiers as your children, and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death."
+- "Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical."
+- "Hold out baits to entice the enemy. Feign disorder, and crush him."
+- "The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim."
+- "Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted..."
+- "If it is to your advantage, make a forward move; if not, stay where you are."
+- "The good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy."
+
+## Lessons
+- 1. Only enter battles you know you can win
+- 2. All warfare is based on deception
+- 3. Lead your team as if you were leading a single man by the hand
+- 4. Know your enemy and yourself. "The good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy." Focus on things you can control, i.e. strengthening your weakness. 
