@@ -67,9 +67,14 @@
 - "Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted..."
 - "If it is to your advantage, make a forward move; if not, stay where you are."
 - "The good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy."
+- "The natural formation of the country is the soldier’s best ally"
+- "The general who wins the battle makes many calculations in his temple before the battle is fought. The general who loses makes but few calculations beforehand."
+- "There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard"
+- "Opportunities multiply as they are seized."
 
 ## Lessons
 - 1. Only enter battles you know you can win
 - 2. All warfare is based on deception
 - 3. Lead your team as if you were leading a single man by the hand
 - 4. Know your enemy and yourself. "The good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy." Focus on things you can control, i.e. strengthening your weakness. 
+- 5. Only advance if the terrain and environment is advantageous. i.e. this could be changing environments to suit your goals, or surrounding yourself around like-minded individuals. 
